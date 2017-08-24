@@ -1,0 +1,21 @@
+Data and code for Rhodes, S., Parra, M. A., Cowan, N., & Logie, R. H. (2017). Healthy Aging and Visual Working Memory: The Role of Mixing Feature and Conjunction Changes. Psychology & Aging, 32(4), 354-366.
+
+### data
+
+ppt_no = unique participant ID
+MemCondition = whether change detection was probed for color, shape, location, or binding of features
+SetSize = number of to-be-remembered objects (3 or 6)
+Condition = whether different probe types were mixed or separately blocked
+Age_Group = younger or older
+HR = hit rate
+FAR = false-alarm rate
+dprime = sensitivity measure from signal detection theory
+criterion = a bias measure from signal detection theory
+aprime & betaprime = alternative sensitivity and bias measures that are commonly used (there are many problems with these measures)
+Pr & Br = sensitivity and bias measures from two-high threshold theory
+
+### analysis.R
+
+Produces the default JZS Bayes factor reported in the manuscript
+
+Any questions please email rhodessp@missouri.edu

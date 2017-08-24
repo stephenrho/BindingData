@@ -1,0 +1,16 @@
+Description of qjep_data.csv
+
+Data from Rhodes, S., Parra, M. A., & Logie, R. H. (2016). Ageing and Feature Binding in Visual Working Memory: The Role of Presentation Time. The Quarterly Journal of Experimental Psychology, 69(4), 654-668.
+
+ppt_no = unique participant ID
+PC = proportion correct responses on change detection task
+HR = hit rate
+FA = false-alarm rate
+AS = average number of articulations during suppression task
+RT = average reaction time for change detection response
+CR = corrected recognition (HR - FA)
+dur = presentation duration of memory array for change detection task
+age = age group
+cond = whether change detection was required for shape only, color only, or shape-color binding
+
+Any questions please email rhodessp@missouri.edu
